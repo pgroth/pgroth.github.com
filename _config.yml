@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Paul Groth
+tagline:          
+url:              http://pgroth.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Paul Groth
+  url:            http://pgroth.com
+  email:          pgroth@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/pgroth/pgroth
