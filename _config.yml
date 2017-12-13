@@ -6,7 +6,7 @@ title:            Paul Groth
 tagline:          
 url:              http://pgroth.github.io
 paginate:         1
-baseurl:          /
+baseurl:          http://pgroth.github.io/
 author:
   name:           Paul Groth
   url:            http://pgroth.com
