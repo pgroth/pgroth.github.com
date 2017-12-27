@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p class="message">
-I research the integration and use of diverse contextualized information with a particular emphasis on data provenance.
+I research intelligent systems for the integration and use of diverse information with a particular emphasis on data provenance.
 </p>
 
 * Thoughts: [Twitter](https://twitter.com/pgroth), [Think Links](http://thinklinks.wordpress.com), [Slides](http://www.slideshare.net/pgroth)
