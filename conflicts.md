@@ -3,11 +3,11 @@ layout: page
 title: Conflicts of Interest
 ---
 
-I am currently employed by Elsevier. All statements on this site are my own and should not be construed as statements by Elsevier.
+I am currently employed by the University of Amsterdam. All statements on this site are my own and should not be construed as statements by the university.
 
-I am co-editor of a Morgan & Claypool book series and have written a book for them. I also am co-author of a book by MIT Press. I receive (rather meager) royalties.
+I am co-editor of a Morgan & Claypool book series and have written a book for them. I also am co-author of a book published by MIT Press. I receive (rather meager) royalties.
 
-I regularly collaborate with Vrije Universitiet Amsterdam and hold a guest status there.
+I regularly collaborate with the Vrije Universitiet Amsterdam and hold a guest status there.
 
 I currently serve on the Board of Directors of FORCE11.
 
