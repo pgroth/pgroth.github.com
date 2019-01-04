@@ -11,4 +11,4 @@ Paul is co-author of "Provenance: an Introduction to PROV" and "The Semantic Web
 
 ---
 <img src="http://pgroth.com/headshot-uva-small.jpeg" width="200">
-Photo from the University of Amsterdam
+Photo UvA
