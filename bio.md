@@ -9,4 +9,5 @@ Previously, Paul led the design of a number of large scale data integration and 
 
 Paul is co-author of "Provenance: an Introduction to PROV" and "The Semantic Web Primer: 3rd Edition" as well as numerous academic articles. He blogs at http://thinklinks.wordpress.com. You can find him on twitter: @pgroth .
 
-![headshot of Paul](http://pgroth.com/headshot-uva-small.jpg)
+![headshot of Paul](http://pgroth.com/headshot-uva-small.jpeg)
+Photo from the University of Amsterdam
