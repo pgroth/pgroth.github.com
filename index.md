@@ -6,6 +6,7 @@ layout: page
 I research intelligent systems for the integration and use of diverse information with a particular emphasis on data provenance.
 </p>
 
+* Lab: [Intelligent Data Engineering Lab (INDELab)](http://indelab.org) at the Informatics Institute, University of Amsterdam
 * Thoughts: [Twitter](https://twitter.com/pgroth), [Think Links](http://thinklinks.wordpress.com), [Slides](http://www.slideshare.net/pgroth)
 * Publications: [Mendeley](http://www.mendeley.com/profiles/paul-groth/), [Google Scholar](http://scholar.google.com/citations?user=0tHSHCIAAAAJ&hl=en), [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/g/Groth:Paul_T=.html)
 * Books: [Amazon](http://amazon.com/author/pgroth)
