@@ -9,7 +9,7 @@ I am co-editor of a Morgan & Claypool book series and have written a book for th
 
 I regularly collaborate with the Vrije Universitiet Amsterdam and hold a guest status there.
 
-I was a member of the Board of Directors of [FORCE11](http://force11.org) and am currently on the advisory board.
+I was a founding member of [FORCE11](http://force11.org) and served on the board of directors. I am currently on the advisory board.
 
 Over my professional career, I have received travel support from a number of organizations. Travel costs are covered by meeting organizers, my employer or myself.
 
