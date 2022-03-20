@@ -8,7 +8,7 @@ I research intelligent systems for the integration and use of diverse informatio
 
 * Group: [Intelligent Data Engineering Lab (INDElab)](http://indelab.org) at the [Informatics Institute, University of Amsterdam](https://ivi.uva.nl)
 * Thoughts: [Twitter](https://twitter.com/pgroth), [Think Links](http://thinklinks.wordpress.com), [Slides](http://www.slideshare.net/pgroth)
-* Publications: [Google Scholar](http://scholar.google.com/citations?user=0tHSHCIAAAAJ&hl=en), [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/g/Groth:Paul_T=.html), [Mendeley](http://www.mendeley.com/profiles/paul-groth/), 
+* Publications: [Google Scholar](http://scholar.google.com/citations?user=0tHSHCIAAAAJ&hl=en), [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/g/Groth:Paul_T=.html)
 * Books: [Amazon](http://amazon.com/author/pgroth)
 * Editor: [Synthesis Lectures on Data, Semantics, and Knowledge](https://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=60)
 * Code & Data: [Github](https://github.com/pgroth), [Figshare](http://figshare.com/authors/Paul_Groth/99315)
