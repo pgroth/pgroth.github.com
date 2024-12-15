@@ -4,9 +4,9 @@ permalink:        pretty
 # Setup
 title:            Paul Groth
 tagline:          
-url:              http://pgroth.github.io
+url:              https://pgroth.github.io
 paginate:         1
-baseurl:          http://pgroth.com/
+baseurl:          https://pgroth.com/
 author:
   name:           Paul Groth
   url:            http://pgroth.com
