@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p class="message">
-I research intelligent systems for the integration and use of diverse information with a particular emphasis on data provenance.
+I research intelligent systems for the integration and use of diverse data with a particular emphasis on data provenance.
 </p>
 
 * Group: [Intelligent Data Engineering Lab (INDElab)](http://indelab.org) at the [Informatics Institute, University of Amsterdam](https://ivi.uva.nl)
