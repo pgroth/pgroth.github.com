@@ -5,7 +5,7 @@ title: Conflicts of Interest
 
 I am currently employed by the University of Amsterdam. All statements on this site are my own and should not be construed as statements by the university.
 
-I am co-founder of longform.ai a spin-out of the Unviersity of Amsterdam. 
+I am co-founder of longform.ai a spin-out of the University of Amsterdam. 
 
 I am co-editor of a Morgan & Claypool book series and have written a book for them. I also am co-author of a book published by MIT Press. I receive (rather meager) royalties.
 
