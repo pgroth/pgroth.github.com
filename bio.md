@@ -7,7 +7,7 @@ Paul Groth is Professor of Algorithmic Data Science at the [University of Amster
 
 Previously, Paul led the design of a number of large scale data integration and knowledge graph construction efforts in the biomedical domain. Paul was co-chair of the W3C Provenance Working Group that created a standard for data provenance interchange. He has also contributed to the emergence of community initiatives to build a better scholarly data ecosystem including altmetrics and the FAIR data principles.
 
-Paul is co-author of "Provenance: an Introduction to PROV" and "The Semantic Web Primer: 3rd Edition" as well as numerous academic articles. You can find him on twitter: [@pgroth](http://twitter.com/pgroth/) .
+Paul is co-author of "Provenance: an Introduction to PROV" and "The Semantic Web Primer: 3rd Edition" as well as over 200 academic articles. More information at [pgroth.com](http://pgroth.com).
 
 ---
 <img src="http://pgroth.com/headshot-uva-small.jpeg" width="300">
