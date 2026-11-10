@@ -13,6 +13,7 @@ I research intelligent systems for the integration and use of diverse data with 
 * Editor: [Synthesis Lectures on Data, Semantics, and Knowledge](https://www.springer.com/series/16928)
 * Code & Data: [Github](https://github.com/pgroth), [Figshare](http://figshare.com/authors/Paul_Groth/99315)
 * Profiles: [ORCiD](http://orcid.org/0000-0003-0183-6910), [LinkedIn](https://www.linkedin.com/in/pgroth), [UvA](https://www.uva.nl/profiel/g/r/p.t.groth/p.t.groth.html)
+* Students: [Working with me](workwithme)
 * Background: [Brief Bio](bio), [CV](http://pgroth.com/cv.pdf), [Conflicts](conflicts)
 
 
